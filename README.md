@@ -1,34 +1,33 @@
-<h1 align="center">Hi 👋, I'm Nitika</h1>
+# Hi 👋 I'm Nitika 
 
-<p align="center">
-MCA Student | Aspiring Data Science | Learning AI & ML
-</p>
-
----
-
-### 👩‍💻 About Me
-- 🎓 MCA student at Lovely Professional University (LPU)
-- 💻 Background in BCA
-- 📊 Interested in **Data Science, AI, and Data Analysis**
-- 🌱 Currently learning **Python, Machine Learning, and Data Analysis**
-- 🎯 Goal: To work in the **IT / Data field and build useful projects**
+🎓 MCA Student at Lovely Professional University  
+📊 Aspiring Data Scientist | Learning AI & Machine Learning  
+💻 Background in Computer Applications (BCA)
 
 ---
 
-### 🛠️ Skills
-- Programming: **Python, C++, Java**
-- Data: **Pandas, NumPy, Data Analysis**
-- Database: **MySQL, SQL**
-- Tools: **Jupyter Notebook, Git, GitHub**
+## 🚀 I'm Currently Working On
+- Learning **Machine Learning & Data Analysis**
+- Building **Python Data Analysis projects**
+- Exploring **AI and LLMs**
 
 ---
 
-### 🌐 Connect With Me
+## 🛠 Tools & Technologies
+- **Languages:** Python, Java, C++
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Scikit-learn, Tensorflow
+- **Database:** MySQL
+- **Tools:** Jupyter Notebook, Git, GitHub
+
+---
+
+## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/nitika-goyal-5b612b269/
 
 ---
 
-⭐ *Always learning and building new things in technology.*
+⭐ Interested in **Data Science, AI, and solving real-world problems with data**
+
 <!--
 **NitikaGoyal17/NitikaGoyal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
